@@ -17,14 +17,14 @@
 
 @font-face {
     font-family: 'geometr231';
-    src: url('/fonts/geometr231.otf');
+    src: url('fonts/geometr231.otf');
 }
 
 /* ----------------------- Regular -------------------------- */
 
 @font-face {
     font-family: 'geometr706';
-    src: url('/fonts/Geometr706.ttf');
+    src: url('fonts/Geometr706.ttf');
 }
 
 /* --------------------------------------------------------- */
