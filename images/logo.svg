@@ -1,0 +1,8 @@
+
+<svg>
+    <symbol id="logo-img" width="149" height="222" viewBox="0 0 149 222" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+        <path id="path" d="M112 112.5C110.949 160.625 72.3226 185.046 39.5 186.5V221C95.5823 218.799 148.107 179.167 147 112.5H112Z" fill="currentColor" stroke="currentColor"/>
+        <circle id="circle-1" cx="37.5" cy="110.5" r="37.5" fill="currentColor"/>
+        <circle id="circle-2" cx="130" cy="19" r="19" fill="currentColor"/>
+    </symbol>
+</svg>
